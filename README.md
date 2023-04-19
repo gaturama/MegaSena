@@ -1,4 +1,4 @@
-### **`Jogo da Mega Sena`**
+### 🍀 **`Jogo da Mega Sena`**
 
 ---
 
