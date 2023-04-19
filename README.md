@@ -21,5 +21,5 @@
 
 ---
 
-📆 Criado em **`22/06/2022`**
+## 📆 Criado em **`22/06/2022`**
 - Utilizando a Linguagem de Programação: C++
