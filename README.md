@@ -16,7 +16,7 @@
 - Conforme a quantidade escolhida pelo usuário, o valor variáva.
 - E caso fosse números abaixo de 6 e acima de 15, era aprensentado uma mensagem de erro.
 - Estes números podiam ser informados manualmente pelo usuário ou gerados aleatoriamente pela máquina.
-- Após isso, o programa apresentava quais eram os números escolhidos pelo usuário e quais os números sorteados.
+- Após isso, o programa mostrava quais eram os números escolhidos pelo usuário e quais os números sorteados.
 - Por fim, apresentava uma mensagem com a quantidade de números acertados pelo usuário.
 
 ---
