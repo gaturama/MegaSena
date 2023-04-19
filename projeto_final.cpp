@@ -248,7 +248,6 @@
 		   	break;
 					
 			}
-			
 		}
 	}
 
@@ -259,5 +258,4 @@
 
 	  return 0;
       system("pause");
-    
 }
