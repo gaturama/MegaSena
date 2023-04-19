@@ -2,7 +2,7 @@
 
 ---
 
-## ✖️ Métodos
+### ✖️ Métodos
 
 - Bubble Sort
 - Vetor
@@ -10,7 +10,7 @@
 
 ---
 
-## 🛠️ Como Funcionava
+### 🛠️ Como Funcionava
 
 - Ao executar o programa, era necessário digitar uma quantidade de números, entre 6 e 15 digitos.
 - Conforme a quantidade escolhida pelo usuário, o valor variáva.
@@ -21,5 +21,5 @@
 
 ---
 
-## 📆 Criado em **`22/06/2022`**
+### 📆 Criado em **`22/06/2022`**
 - Utilizando a Linguagem de Programação: C++
