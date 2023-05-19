@@ -12,12 +12,12 @@
 
 ### 🛠️ Como Funcionava
 
-- Ao executar o programa, era necessário digitar uma quantidade de números, entre 6 e 15 digitos.
-- Conforme a quantidade escolhida pelo usuário, o valor variáva.
-- E caso fosse números abaixo de 6 e acima de 15, era aprensentado uma mensagem de erro.
-- Estes números podiam ser informados manualmente pelo usuário ou gerados aleatoriamente pela máquina.
-- Após isso, o programa mostrava quais eram os números escolhidos pelo usuário e quais os números sorteados.
-- Por fim, apresentava uma mensagem com a quantidade de números acertados pelo usuário.
+- Digite números, entre 6 e 15 digitos.
+- O valor varia, conforme a quantidade digitada pelo usuário.
+- Uma mensagem de erro será apresentada, caso os números forem abaixo de 6 e acima de 15 digitos.
+- O usuário pode informar manualmente os números ou estes podem ser gerados aleatoriamente pela máquina.
+- Após, o programa mostrará quais foram os números escolhidos pelo usuário e quais os números sorteados.
+- Por fim, apresentará uma mensagem com a quantidade de números acertados pelo usuário.
 
 ---
 
